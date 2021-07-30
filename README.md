@@ -1,0 +1,9 @@
+- :heart: Hi, I'm Marcel - don't let the **Dalhai** fool you. 
+- :dart: I'm a computer scientist / software architect / engineer with a masters degree in computer science from ETH Zürich.
+- :video_game: I'm mainly interested in programming games and all that comes with it.
+  - :eyes: Computer Graphics
+  - :fu: Distributed Systems
+  - :speech_balloon: Language Design
+  - :wrench: Software Architecture
+  - :art: Modeling and texturing
+- :nose: My attention span is incredibly short when it comes to working with emojis, so I'll stop here.
